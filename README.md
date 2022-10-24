@@ -6,3 +6,5 @@ Dynamically traverses through parsed JSON and writes all key value pairs to Exce
 * Microsoft Scripting Runtime has to be added as a reference
 
 Feel free to check out my Medium article on this? 
+
+You can either download the macro enabled Excel workbook in this rep, or import Module1.bas into your own workbook and follow the instructions in my source code. 
